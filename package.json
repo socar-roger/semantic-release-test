@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-test",
-  "version": "1.0.0",
+  "version": "1.0.0-dev.1",
   "description": "Semantic Release 테스트용 프로젝트",
   "private": true,
   "engines": {
