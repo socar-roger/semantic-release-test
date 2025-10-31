@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/semantic-release-test.git"
+    "url": "https://github.com/socar-roger/semantic-release-test.git"
   },
   "scripts": {
     "build": "echo 'Building...' && sleep 1 && echo 'Build complete!'",
