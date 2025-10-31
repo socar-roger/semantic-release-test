@@ -1,0 +1,27 @@
+{
+  "name": "semantic-release-test",
+  "version": "1.0.0",
+  "description": "Semantic Release 테스트용 프로젝트",
+  "private": true,
+  "engines": {
+    "node": "^18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/semantic-release-test.git"
+  },
+  "scripts": {
+    "build": "echo 'Building...' && sleep 1 && echo 'Build complete!'",
+    "test": "echo 'Testing...' && sleep 1 && echo 'All tests passed!'",
+    "start": "echo 'Starting application...'",
+    "semantic-release": "semantic-release",
+    "release:dry": "semantic-release --dry-run"
+  },
+  "devDependencies": {
+    "semantic-release": "^22.0.0",
+    "@semantic-release/changelog": "^6.0.0",
+    "@semantic-release/git": "^10.0.0",
+    "@semantic-release/github": "^9.0.0",
+    "@semantic-release/npm": "^11.0.0"
+  }
+}
