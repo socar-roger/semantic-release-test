@@ -1,3 +1,10 @@
+# [1.0.0-dev.2](https://github.com/socar-roger/semantic-release-test/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2025-10-31)
+
+
+### Features
+
+* test ([bfa0dc7](https://github.com/socar-roger/semantic-release-test/commit/bfa0dc7891e32821cbfaaaa035ee63d3ad636e0d))
+
 # 1.0.0-dev.1 (2025-10-31)
 
 
